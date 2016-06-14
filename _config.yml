@@ -1,0 +1,14 @@
+layout_spectrum: 0.5369913
+color:
+  saturation: 0.5923738
+  brandStrength: 0.7112436
+  lightness: 1
+  rhythmicContrast: 0.9470026
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+typography_spectrum: 0.9495363
+name: DCR Music
